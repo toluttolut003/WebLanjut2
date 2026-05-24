@@ -1,0 +1,3 @@
+- harus tambah make:component untu <x-smth smth
+- jangan lupa salin syntax nya ke table.blade.php dan primary.button blade
+- 
